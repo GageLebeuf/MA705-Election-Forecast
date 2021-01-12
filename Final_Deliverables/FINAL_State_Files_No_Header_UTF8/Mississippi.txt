@@ -1,0 +1,6 @@
+﻿	Civiqs	10/27/2020	507 LV ±5.3%	41%	55%	4%
+	Axios / SurveyMonkey	10/17/2020	1,290 LV	39%	59%	2%
+Axios / SurveyMonkey	10/01/2020	782 LV	44%	55%	1%
+	Millsaps College	6/16/2020	568 LV ±4.1%	41%	50%	9%
+Millsaps College	4/20/2020	508 RV ±4.3%	38%	49%	13%
+Mason-Dixon	3/05/2020	625 RV ±4%	41%	56%	3%

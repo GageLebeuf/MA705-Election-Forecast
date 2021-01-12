@@ -1,0 +1,14 @@
+﻿	Morning Consult	11/02/2020	904 LV ±3%	45%	51%	4%
+	East Carolina Univ.	10/28/2020	763 LV ±4.1%	44%	51%	5%
+Morning Consult	10/22/2020	926 LV ±3.2%	45%	51%	4%
+NY Times / Siena College	10/15/2020	605 LV ±4.5%	41%	49%	10%
+Morning Consult	10/13/2020	903 LV ±3.3%	42%	54%	4%
+	Quinnipiac	9/30/2020	1,123 LV ±2.9%	47%	48%	5%
+YouGov/CBS News	9/27/2020	1,065 LV ±3.8%	42%	52%	6%
+Morning Consult	9/22/2020	764 LV ±4%	44%	50%	6%
+Quinnipiac	9/16/2020	969 LV ±3.2%	45%	51%	4%
+Quinnipiac	8/06/2020	914 RV ±3.2%	42%	47%	11%
+Morning Consult	8/04/2020	741 LV ±4%	44%	49%	7%
+Gravis Marketing	7/18/2020	604 LV ±4%	46%	50%	4%
+Civiqs	5/27/2020	591 RV ±4.5%	42%	52%	6%
+East Carolina Univ.	2/06/2020	1,756 RV ±2.7%	40%	52%	8%

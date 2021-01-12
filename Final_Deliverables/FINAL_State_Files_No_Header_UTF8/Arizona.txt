@@ -1,0 +1,79 @@
+Emerson College	11/01/2020	732 LV ±3.6%	48%	46%	6%
+	NY Times / Siena College	11/01/2020	1,252 LV ±3%	49%	43%	8%
+Y2 Analytics	10/31/2020	700 LV ±3.7%	50%	47%	3%
+	CNN/SSRS	10/31/2020	865 LV ±4.1%	50%	46%	4%
+	Trafalgar Group	10/30/2020	1,002 LV ±3%	46%	49%	5%
+	Rasmussen Reports	10/29/2020	800 LV ±3.5%	45%	48%	7%
+	Ipsos/Reuters	10/28/2020	714 LV ±4.2%	48%	46%	6%
+	Gravis Marketing	10/28/2020	704 LV ±3.7%	48%	44%	8%
+	OH Predictive Insights	10/27/2020	716 LV ±3.7%	49%	46%	5%
+Susquehanna	10/23/2020	500 LV ±4.3%	46%	46%	8%
+	Morning Consult	10/22/2020	1,066 LV ±3%	47%	48%	5%
+Ipsos/Reuters	10/21/2020	658 LV ±4.4%	49%	46%	5%
+Rasmussen Reports	10/21/2020	800 LV ±3.5%	48%	46%	6%
+	CNBC/Change Research	10/20/2020	232 LV	51%	45%	4%
+RMG Research	10/20/2020	800 LV ±3.5%	47%	46%	7%
+	Data Orbital	10/20/2020	550 LV ±4.2%	47%	42%	11%
+	YouGov/CBS News	10/18/2020	1,074 LV ±4.1%	50%	47%	3%
+	Monmouth University	10/15/2020	502 RV ±4.4%	50%	44%	6%
+OH Predictive Insights	10/15/2020	608 LV ±4%	50%	47%	3%
+Ipsos/Reuters	10/14/2020	667 LV ±4.3%	50%	46%	4%
+Morning Consult	10/13/2020	1,144 LV ±2.9%	49%	46%	5%
+	Redfield & Wilton	10/09/2020	727 LV ±3.6%	49%	43%	8%
+Trafalgar Group	10/09/2020	1,087 LV ±2.9%	44%	48%	8%
+Ipsos/Reuters	10/07/2020	663 LV ±4%	48%	46%	6%
+Data Orbital	10/07/2020	550 LV ±4.2%	48%	43%	9%
+CNBC/Change Research	10/06/2020	296 LV	51%	45%	4%
+NY Times / Siena College	10/05/2020	655 LV ±4.2%	49%	41%	10%
+Redfield & Wilton	10/02/2020	871 LV ±3.3%	47%	44%	9%
+Suffolk University	10/02/2020	500 LV ±4.4%	50%	46%	4%
+Ipsos/Reuters	9/23/2020	565 LV ±5%	47%	46%	7%
+CNBC/Change Research	9/23/2020	262 LV	49%	43%	8%
+ABC News / Wash. Post	9/23/2020	579 LV ±4.5%	48%	49%	3%
+Redfield & Wilton	9/18/2020	855 LV ±3.4%	47%	42%	11%
+NY Times / Siena College	9/18/2020	653 LV ±4.1%	49%	40%	11%
+Monmouth University	9/17/2020	420 RV ±4.8%	48%	44%	8%
+Kaiser Family Foundation	9/17/2020	1,298 RV ±3%	45%	40%	15%
+OH Predictive Insights	9/14/2020	600 LV ±4%	52%	42%	6%
+YouGov/CBS News	9/13/2020	1,106 LV ±3.8%	47%	44%	9%
+Gravis Marketing	9/12/2020	684 LV ±3.8%	50%	48%	2%
+Benenson / GS Strategy	9/10/2020	1,600 LV ±2.5%	48%	47%	5%
+CNBC/Change Research	9/09/2020	470 LV	49%	45%	6%
+Redfield & Wilton	9/08/2020	830 LV ±3.4%	48%	43%	9%
+	Fox News	9/02/2020	772 LV ±3.5%	49%	40%	11%
+Morning Consult	9/01/2020	9,443 LV ±3%	52%	42%	6%
+CNBC/Change Research	8/26/2020	344 LV	49%	47%	4%
+Redfield & Wilton	8/21/2020	856 RV ±3.4%	47%	38%	15%
+CNBC/Change Research	8/12/2020	428 LV	45%	44%	11%
+Emerson College	8/11/2020	661 LV ±3.8%	49%	45%	6%
+Trafalgar Group	8/10/2020	1,013 LV ±3%	45%	46%	9%
+OH Predictive Insights	8/10/2020	603 LV ±4%	49%	45%	6%
+Redfield & Wilton	7/30/2020	858 RV ±3.4%	46%	38%	16%
+CNBC/Change Research	7/29/2020	365 LV	47%	45%	8%
+Morning Consult	7/28/2020	908 LV ±3.3%	49%	42%	9%
+	NBC News/Marist	7/26/2020	826 RV ±4.1%	50%	45%	5%
+CNN/SSRS	7/26/2020	873 RV ±3.8%	49%	45%	6%
+Spry Strategies	7/22/2020	700 LV ±3.7%	49%	45%	6%
+	Public Policy	7/22/2020	960 RV	49%	45%	6%
+OH Predictive Insights	7/16/2020	600 LV ±4%	49%	44%	7%
+CNBC/Change Research	7/15/2020	345 LV	51%	45%	4%
+YouGov/CBS News	7/12/2020	1,099 RV ±3.8%	46%	46%	8%
+Data Orbital	7/01/2020	600 LV ±4%	47%	45%	8%
+CNBC/Change Research	7/01/2020	311 LV	51%	44%	5%
+Redfield & Wilton	6/25/2020	865 RV ±3.3%	43%	39%	18%
+NY Times / Siena College	6/25/2020	650 RV ±4.3%	48%	41%	11%
+CNBC/Change Research	6/17/2020	201 LV	45%	44%	11%
+Civiqs	6/16/2020	1,368 RV ±2.9%	49%	45%	6%
+CNBC/Change Research	6/03/2020	329 LV	44%	45%	11%
+Fox News	6/03/2020	1,002 RV ±3%	46%	42%	12%
+HighGround	5/26/2020	400 LV ±4.9%	47%	45%	8%
+Redfield & Wilton	5/21/2020	946 RV ±3.2%	45%	41%	14%
+OH Predictive Insights	5/19/2020	600 LV ±4%	50%	43%	7%
+OH Predictive Insights	4/14/2020	600 LV ±4%	52%	43%	5%
+NBC News/Marist	3/16/2020	2,523 RV ±2.7%	47%	46%	7%
+Monmouth University	3/16/2020	847 RV ±3.4%	46%	43%	11%
+Univision/ASU	3/13/2020	1,036 RV ±3%	50%	42%	8%
+OH Predictive Insights	3/13/2020	600 LV ±4%	49%	43%	8%
+Public Policy	3/05/2020	666 RV ±3.8%	48%	47%	5%
+Fabrizio Lee	2/28/2020	1,000 LV ±3.1%	45%	50%	5%
+Public Policy	1/08/2020	760 RV	46%	46%	8%

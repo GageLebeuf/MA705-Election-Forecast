@@ -1,0 +1,106 @@
+﻿Ipsos/Reuters	11/02/2020	707 LV ±4.2%	49%	48%	3%
+	Morning Consult	11/02/2020	1,982 LV ±2%	49%	48%	3%
+	Emerson College	11/01/2020	855 LV ±3.3%	47%	47%	6%
+InsiderAdvantage	11/01/2020	450 LV ±4.6%	44%	48%	8%
+	Trafalgar Group	10/31/2020	1,082 LV ±2.9%	47%	49%	4%
+	CNN/SSRS	10/31/2020	901 LV ±4%	51%	45%	4%
+	Meeting Street Insights	10/30/2020	600 LV ±4%	48%	45%	7%
+	East Carolina Univ.	10/30/2020	1,103 LV ±3.4%	49%	47%	4%
+	NBC News/Marist	10/30/2020	800 LV ±4.7%	52%	46%	2%
+	Rasmussen Reports	10/30/2020	800 LV ±3.5%	46%	48%	6%
+	Cardinal Point Analytics	10/30/2020	750 LV ±3.6%	46%	48%	6%
+Hill/Harris	10/29/2020	903 LV	49%	48%	3%
+	NY Times / Siena College	10/29/2020	1,034 LV ±3.7%	48%	45%	7%
+	UMass Lowell	10/29/2020	911 LV ±4.2%	48%	48%	4%
+	Gravis Marketing	10/28/2020	614 LV ±4%	49%	46%	5%
+	Civitas	10/28/2020	504 LV ±4.4%	47%	46%	7%
+	SurveyUSA	10/27/2020	627 LV ±4.9%	48%	48%	4%
+Ipsos/Reuters	10/27/2020	647 LV ±4.4%	49%	48%	3%
+	Public Policy	10/27/2020	937 LV ±3.2%	51%	47%	2%
+RMG Research	10/27/2020	800 LV ±3.5%	48%	47%	5%
+Trafalgar Group	10/25/2020	1,098 LV ±2.9%	46%	49%	5%
+	YouGov/CBS News	10/25/2020	1,022 LV ±4.1%	51%	47%	2%
+	Meredith College	10/23/2020	732 RV ±3%	48%	44%	8%
+Morning Consult	10/22/2020	1,904 LV ±2.2%	50%	47%	3%
+Rasmussen Reports	10/22/2020	800 LV ±3.5%	47%	48%	5%
+	CNBC/Change Research	10/20/2020	521 LV	50%	47%	3%
+Ipsos/Reuters	10/20/2020	660 LV ±4.3%	49%	46%	5%
+East Carolina Univ.	10/20/2020	1,155 LV ±3.4%	50%	47%	3%
+ABC News / Wash. Post	10/20/2020	646 LV ±4.5%	49%	48%	3%
+Emerson College	10/15/2020	721 LV ±3.6%	49%	49%	2%
+	Civiqs	10/15/2020	1,211 LV ±3.3%	51%	46%	3%
+NY Times / Siena College	10/14/2020	627 LV ±4.5%	46%	42%	12%
+Susquehanna	10/14/2020	500 LV ±4.3%	48%	46%	6%
+SurveyUSA	10/13/2020	669 LV ±4.8%	50%	45%	5%
+Ipsos/Reuters	10/13/2020	660 LV ±4%	48%	47%	5%
+	Monmouth University	10/13/2020	500 RV ±4.4%	49%	46%	5%
+Morning Consult	10/13/2020	1,993 LV ±2.2%	50%	46%	4%
+	Redfield & Wilton	10/09/2020	938 LV ±3.2%	49%	44%	7%
+CNBC/Change Research	10/06/2020	396 LV	49%	47%	4%
+Ipsos/Reuters	10/06/2020	693 LV ±4%	47%	47%	6%
+East Carolina Univ.	10/06/2020	1,232 LV ±3.2%	50%	46%	4%
+Public Policy	10/05/2020	911 LV ±3.3%	50%	46%	4%
+Redfield & Wilton	10/02/2020	1,097 LV ±3%	47%	45%	8%
+UMass Lowell	9/29/2020	921 LV ±4.1%	48%	49%	3%
+Meredith College	9/28/2020	705 RV ±3.5%	46%	45%	9%
+YouGov/CBS News	9/27/2020	1,194 LV ±3.6%	48%	46%	6%
+Civitas	9/23/2020	612 LV ±4%	44%	45%	11%
+CNBC/Change Research	9/23/2020	579 LV	48%	46%	6%
+Ipsos/Reuters	9/22/2020	586 LV ±4.6%	47%	47%	6%
+Emerson College	9/20/2020	717 LV ±3.6%	50%	49%	1%
+Redfield & Wilton	9/18/2020	1,092 LV ±3%	47%	45%	8%
+NY Times / Siena College	9/18/2020	653 LV ±4.3%	45%	44%	11%
+Kaiser Family Foundation	9/17/2020	1,172 RV ±3%	45%	43%	12%
+Suffolk University	9/17/2020	500 LV ±4.4%	46%	43%	11%
+CNN/SSRS	9/15/2020	787 LV ±4.4%	49%	46%	5%
+SurveyUSA	9/14/2020	596 LV ±5.6%	47%	47%	6%
+Trafalgar Group	9/14/2020	1,046 LV ±3%	46%	48%	6%
+Rasmussen Reports	9/11/2020	1,000 LV ±3%	46%	48%	6%
+Benenson / GS Strategy	9/10/2020	1,600 LV ±2.5%	48%	48%	4%
+CNBC/Change Research	9/09/2020	442 LV	49%	47%	4%
+Redfield & Wilton	9/08/2020	951 LV ±3.2%	43%	44%	13%
+Monmouth University	9/03/2020	401 RV ±4.9%	47%	45%	8%
+	Fox News	9/02/2020	722 LV ±3.5%	50%	46%	4%
+East Carolina Univ.	9/01/2020	1,101 LV ±3.4%	47%	49%	4%
+Morning Consult	9/01/2020	N/A	49%	47%	4%
+CNBC/Change Research	8/26/2020	560 LV	48%	47%	5%
+Morning Consult	8/24/2020	1,541 LV ±2%	49%	46%	5%
+Redfield & Wilton	8/21/2020	967 RV ±3.2%	44%	46%	10%
+East Carolina Univ.	8/16/2020	1,255 RV ±3.2%	47%	47%	6%
+Civitas	8/13/2020	600 LV ±4%	45%	44%	11%
+CNBC/Change Research	8/12/2020	491 LV	47%	48%	5%
+Emerson College	8/11/2020	673 LV ±3.8%	46%	48%	6%
+YouGov/CBS News	8/02/2020	1,129 LV ±3.8%	48%	44%	8%
+Redfield & Wilton	7/30/2020	919 RV ±3.2%	43%	42%	15%
+Cardinal Point Analytics	7/29/2020	735 LV ±3.6%	47%	48%	5%
+CNBC/Change Research	7/29/2020	284 LV	49%	46%	5%
+Public Policy	7/28/2020	884 RV	49%	46%	5%
+Morning Consult	7/28/2020	1,504 LV ±2.5%	47%	47%	6%
+NBC News/Marist	7/27/2020	882 RV ±4%	51%	44%	5%
+Spry Strategies	7/22/2020	600 LV ±3.7%	46%	49%	5%
+Cardinal Point Analytics	7/20/2020	547 LV ±4.2%	48%	49%	3%
+CNBC/Change Research	7/15/2020	655 LV	47%	46%	7%
+Public Policy	7/09/2020	818 RV ±3.4%	50%	46%	4%
+CNBC/Change Research	7/01/2020	468 LV	51%	44%	5%
+East Carolina Univ.	6/30/2020	1,149 RV ±3.4%	45%	44%	11%
+Fox News	6/25/2020	1,012 RV ±3%	47%	45%	8%
+Redfield & Wilton	6/25/2020	902 RV ±3.3%	46%	40%	14%
+NY Times / Siena College	6/25/2020	653 RV ±4.1%	49%	40%	11%
+Public Policy	6/24/2020	1,157 RV ±2.9%	48%	46%	6%
+Gravis Marketing	6/20/2020	631 RV ±3.9%	43%	46%	11%
+CNBC/Change Research	6/17/2020	378 LV	47%	45%	8%
+Public Policy	6/04/2020	949 RV ±3.2%	49%	45%	6%
+CNBC/Change Research	6/03/2020	620 LV	46%	45%	9%
+Civitas	6/03/2020	500 LV ±4.4%	44%	47%	9%
+Meeting Street Insights	5/26/2020	500 RV	47%	47%	6%
+Redfield & Wilton	5/21/2020	859 RV ±3.3%	45%	43%	12%
+East Carolina Univ.	5/15/2020	1,111 RV ±3.4%	43%	46%	11%
+Civiqs	5/05/2020	1,362 RV ±3%	49%	46%	5%
+Meredith College	5/01/2020	604 RV ±4%	47%	40%	13%
+Garin-Hart-Yang	4/29/2020	800 LV	48%	45%	7%
+SurveyUSA	4/28/2020	580 LV ±5.5%	50%	45%	5%
+Public Policy	4/23/2020	1,275 RV ±2.7%	49%	46%	5%
+Public Policy	4/16/2020	1,318 RV ±2.7%	48%	47%	5%
+Civitas	4/15/2020	500 LV ±4.4%	42%	49%	9%
+East Carolina Univ.	3/01/2020	1,288 RV ±3.2%	48%	46%	6%
+NBC News/Marist	3/01/2020	1,733 RV ±2.9%	49%	45%	6%

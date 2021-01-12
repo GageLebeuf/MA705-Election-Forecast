@@ -1,0 +1,5 @@
+﻿	Triton Polling	10/23/2020	544 LV ±4.2%	38%	58%	4%
+Research America	10/13/2020	450 LV ±4.6%	39%	53%	8%
+Triton Polling	10/06/2020	525 RV ±4.3%	39%	57%	4%
+Axios / SurveyMonkey	10/01/2020	516 LV	36%	62%	2%
+WPA Intelligence	1/13/2020	500 LV ±4.4%	31%	66%	3%

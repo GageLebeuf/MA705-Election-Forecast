@@ -1,0 +1,31 @@
+﻿	Public Policy	11/02/2020	871 LV	49%	48%	3%
+	Civiqs	11/01/2020	853 LV ±3.7%	49%	48%	3%
+	InsiderAdvantage	11/01/2020	400 LV ±4.9%	46%	48%	6%
+	Emerson College	11/01/2020	604 LV ±3.9%	46%	47%	7%
+	Selzer & Company	10/31/2020	814 LV ±3.4%	41%	48%	11%
+	Quinnipiac	10/29/2020	1,225 LV ±2.8%	46%	47%	7%
+	RABA Research	10/27/2020	693 LV ±4%	50%	46%	4%
+	RMG Research	10/22/2020	800 LV ±3.5%	47%	47%	6%
+Emerson College	10/21/2020	435 LV ±5.7%	46%	48%	6%
+	NY Times / Siena College	10/21/2020	753 LV ±3.9%	46%	43%	11%
+	Monmouth University	10/21/2020	501 RV ±4.4%	47%	48%	5%
+InsiderAdvantage	10/20/2020	400 LV ±4.9%	45%	45%	10%
+YouGov/CBS News	10/11/2020	1,035 LV ±3.5%	49%	49%	2%
+Quinnipiac	10/07/2020	1,205 LV ±2.8%	50%	45%	5%
+Civiqs	10/07/2020	756 LV ±3.9%	48%	47%	5%
+RABA Research	9/30/2020	780 LV ±4%	48%	46%	6%
+Monmouth University	9/24/2020	402 RV ±4.9%	44%	50%	6%
+NY Times / Siena College	9/24/2020	501 LV ±5%	45%	42%	13%
+Selzer & Company	9/22/2020	658 LV ±3.8%	47%	47%	6%
+Fabrizio Ward / Hart Research	9/10/2020	800 LV ±3.5%	45%	47%	8%
+RMG Research	8/06/2020	500 RV ±4.5%	40%	41%	19%
+Monmouth University	8/05/2020	401 RV ±4.9%	45%	48%	7%
+Public Policy	7/28/2020	1,118 RV	47%	48%	5%
+Spry Strategies	7/22/2020	701 LV ±3.7%	48%	46%	6%
+Selzer & Company	6/15/2020	674 LV ±3.8%	43%	44%	13%
+Civiqs	6/09/2020	865 RV ±3.7%	46%	46%	8%
+Public Policy	6/05/2020	963 RV	47%	48%	5%
+Public Policy	5/04/2020	1,222 RV ±2.8%	46%	48%	6%
+Selzer & Company	3/11/2020	667 LV ±3.8%	41%	51%	8%
+NY Times / Siena College	1/25/2020	1,689 RV ±2.8%	44%	46%	10%
+Public Policy	1/08/2020	964 LV	46%	49%	5%

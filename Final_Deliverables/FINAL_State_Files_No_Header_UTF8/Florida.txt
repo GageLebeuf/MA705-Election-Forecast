@@ -1,0 +1,97 @@
+	Emerson College	11/01/2020	849 LV ±3.3%	51%	45%	4%
+	Rasmussen Reports	11/01/2020	800 LV ±3.5%	48%	47%	5%
+	Susquehanna	11/01/2020	400 LV ±4.9%	46%	46%	8%
+	RMG Research	11/01/2020	1,200 LV ±2.8%	51%	47%	2%
+	NY Times / Siena College	11/01/2020	1,451 LV ±3.2%	47%	44%	9%
+	ABC News / Wash. Post	11/01/2020	824 LV ±4%	48%	50%	2%
+	St. Pete Polls	10/30/2020	2,758 LV ±1.9%	49%	48%	3%
+	Trafalgar Group	10/30/2020	1,088 LV ±2.9%	47%	50%	3%
+	Public Policy	10/30/2020	941 LV	52%	45%	3%
+	NBC News/Marist	10/29/2020	743 LV ±4.4%	51%	47%	2%
+Hill/Harris	10/29/2020	1,148 LV	50%	47%	3%
+	Quinnipiac	10/29/2020	1,324 LV ±2.7%	45%	42%	13%
+	Monmouth University	10/29/2020	509 RV ±4.4%	50%	45%	5%
+NBC News/Marist	10/29/2020	743 LV ±4.4%	51%	47%	2%
+	Ipsos/Reuters	10/28/2020	704 LV ±4.2%	49%	47%	4%
+Susquehanna	10/27/2020	400 LV ±4.9%	44%	48%	8%
+	Florida Atlantic Univ.	10/27/2020	937 LV ±3.1%	50%	48%	2%
+RMG Research	10/26/2020	800 LV ±3.5%	50%	48%	2%
+	YouGov/CBS News	10/25/2020	1,228 LV ±3.5%	50%	48%	2%
+Rasmussen Reports	10/23/2020	800 LV ±3.5%	46%	49%	5%
+St. Pete Polls	10/23/2020	2,527 LV ±2%	49%	47%	4%
+	Morning Consult	10/22/2020	4,685 LV ±1.4%	52%	45%	3%
+Ipsos/Reuters	10/21/2020	662 LV ±3.5%	50%	46%	4%
+	CNN/SSRS	10/21/2020	847 LV ±4%	50%	46%	4%
+Civiqs	10/21/2020	863 LV ±3.5%	51%	47%	2%
+	CNBC/Change Research	10/20/2020	547 LV	50%	45%	5%
+	Univ. of North Florida	10/20/2020	863 LV ±3.3%	48%	47%	5%
+Hill-HarrisX	10/16/2020	965 LV	48%	48%	4%
+	Mason-Dixon	10/16/2020	625 LV ±4%	48%	45%	7%
+Ipsos/Reuters	10/14/2020	653 LV ±4.4%	49%	47%	4%
+Trafalgar Group	10/14/2020	1,051 LV ±2.9%	46%	48%	6%
+Florida Atlantic Univ.	10/13/2020	644 LV ±3.8%	51%	47%	2%
+Morning Consult	10/13/2020	4,785 LV ±1.4%	51%	46%	3%
+St. Pete Polls	10/12/2020	2,215 LV ±2.1%	49%	47%	4%
+Emerson College	10/12/2020	690 LV ±3.7%	50%	47%	3%
+	Redfield & Wilton	10/09/2020	998 LV ±3.1%	49%	44%	7%
+InsiderAdvantage	10/08/2020	400 LV ±4.9%	43%	46%	11%
+St. Leo University	10/07/2020	489 LV	50%	44%	6%
+Ipsos/Reuters	10/07/2020	678 LV ±4%	49%	45%	6%
+Quinnipiac	10/07/2020	1,211 LV ±2.8%	51%	40%	9%
+CNBC/Change Research	10/06/2020	590 LV	50%	46%	4%
+Suffolk University	10/06/2020	500 LV ±4.4%	45%	45%	10%
+Univ. of North Florida	10/06/2020	3,134 LV ±1.8%	51%	45%	4%
+NY Times / Siena College	10/03/2020	710 LV ±4.2%	47%	42%	11%
+Redfield & Wilton	10/02/2020	1,073 LV ±3%	48%	43%	9%
+Ipsos/Reuters	9/23/2020	586 LV ±5%	47%	47%	6%
+CNBC/Change Research	9/23/2020	702 LV	49%	46%	5%
+St. Pete Polls	9/23/2020	2,906 LV ±1.8%	50%	47%	3%
+ABC News / Wash. Post	9/23/2020	613 LV ±4.5%	47%	51%	2%
+YouGov/CBS News	9/20/2020	1,205 LV ±3.7%	48%	46%	6%
+Redfield & Wilton	9/18/2020	1,158 LV ±2.9%	47%	44%	9%
+Kaiser Family Foundation	9/17/2020	1,009 RV ±4%	43%	42%	15%
+Monmouth University	9/15/2020	428 RV ±4.7%	50%	45%	5%
+Florida Atlantic Univ.	9/15/2020	631 LV ±3.8%	50%	50%	0%
+Benenson / GS Strategy	9/10/2020	1,600 LV ±2.5%	48%	46%	6%
+St. Pete Polls	9/09/2020	2,689 LV ±1.9%	50%	47%	3%
+CNBC/Change Research	9/09/2020	1,144 LV	49%	46%	5%
+Redfield & Wilton	9/08/2020	1,093 LV ±3%	47%	44%	9%
+NBC News/Marist	9/08/2020	766 LV ±4.5%	48%	48%	4%
+Trafalgar Group	9/04/2020	1,022 LV ±3%	46%	49%	5%
+Quinnipiac	9/03/2020	1,235 LV ±2.8%	48%	45%	7%
+Morning Consult	9/01/2020	N/A	49%	47%	4%
+CNBC/Change Research	8/26/2020	1,262 LV	49%	46%	5%
+Public Policy	8/25/2020	671 RV ±3.8%	48%	44%	8%
+Redfield & Wilton	8/21/2020	1,280 RV ±2.7%	49%	41%	10%
+CNBC/Change Research	8/12/2020	469 LV	50%	44%	6%
+Redfield & Wilton	7/30/2020	1,121 RV ±2.9%	48%	41%	11%
+Mason-Dixon	7/30/2020	625 LV ±4%	50%	46%	4%
+CNBC/Change Research	7/29/2020	865 LV	48%	45%	7%
+Morning Consult	7/28/2020	3,760 LV ±1.6%	49%	46%	5%
+CNN/SSRS	7/26/2020	880 RV ±3.8%	51%	46%	3%
+Quinnipiac	7/23/2020	924 RV ±3.2%	51%	38%	11%
+St. Pete Polls	7/23/2020	3,018 LV ±1.8%	50%	44%	6%
+CNBC/Change Research	7/15/2020	1,128 LV	50%	43%	7%
+Gravis Marketing	7/13/2020	529 LV ±4.3%	53%	43%	4%
+YouGov/CBS News	7/12/2020	1,229 RV ±3.5%	48%	42%	10%
+Trafalgar Group	7/03/2020	1,072 LV ±2.9%	46%	46%	8%
+CNBC/Change Research	7/01/2020	951 LV	50%	45%	5%
+	Fox News	6/25/2020	1,010 RV ±3%	49%	40%	11%
+Redfield & Wilton	6/25/2020	1,079 RV ±3%	45%	41%	14%
+NY Times / Siena College	6/25/2020	651 RV ±4.6%	47%	41%	12%
+CNBC/Change Research	6/17/2020	713 LV	50%	43%	7%
+TIPP Battleground Poll	6/16/2020	876 LV	51%	40%	9%
+Cygnal	6/11/2020	881 LV ±3.3%	47%	44%	9%
+CNBC/Change Research	6/03/2020	1,186 LV	48%	45%	7%
+St. Pete Polls	5/28/2020	4,763 RV ±1.4%	48%	47%	5%
+Redfield & Wilton	5/21/2020	1,014 RV ±3.1%	45%	43%	12%
+Florida Atlantic Univ.	5/15/2020	928 RV ±3.1%	53%	47%	0%
+Fox News	4/23/2020	1,004 RV ±3%	46%	43%	11%
+Quinnipiac	4/22/2020	1,385 RV ±2.6%	46%	42%	12%
+St. Pete Polls	4/18/2020	5,659 RV ±1.3%	48%	48%	4%
+Univ. of North Florida	4/06/2020	3,222 RV ±1.7%	46%	40%	14%
+Univision	3/16/2020	1,071 RV ±3%	45%	48%	7%
+Florida Atlantic Univ.	3/10/2020	1,216 RV ±2.7%	49%	51%	0%
+Univ. of North Florida	2/20/2020	725 RV ±3.6%	49%	48%	3%
+Cherry Communications	1/21/2020	608 LV ±4%	45%	49%	6%
+Florida Atlantic Univ.	1/15/2020	1,285 RV ±2.6%	51%	49%	0%

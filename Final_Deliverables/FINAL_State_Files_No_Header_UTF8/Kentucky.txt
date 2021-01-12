@@ -1,0 +1,8 @@
+﻿	Mason-Dixon	10/20/2020	625 LV ±4%	39%	56%	5%
+Axios / SurveyMonkey	10/17/2020	2,525 LV	41%	58%	1%
+	Quinnipiac	9/16/2020	1,164 LV ±2.9%	38%	58%	4%
+Quinnipiac	8/06/2020	909 RV ±3.3%	41%	50%	9%
+Morning Consult	8/04/2020	793 LV ±3%	35%	59%	6%
+Spry Strategies	7/22/2020	600 LV ±3.7%	34%	60%	6%
+Civiqs	6/18/2020	898 RV ±3.8%	37%	57%	6%
+Public Policy	5/20/2020	1,104 RV	39%	55%	6%

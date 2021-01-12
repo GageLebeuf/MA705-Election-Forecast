@@ -1,0 +1,4 @@
+﻿	Axios / SurveyMonkey	11/01/2020	3,252 LV	59%	39%	2%
+Axios / SurveyMonkey	10/17/2020	3,444 LV	60%	38%	2%
+Civiqs	9/30/2020	944 LV ±3.5%	56%	39%	5%
+DHM Research	9/11/2020	502 LV ±4.4%	51%	39%	10%

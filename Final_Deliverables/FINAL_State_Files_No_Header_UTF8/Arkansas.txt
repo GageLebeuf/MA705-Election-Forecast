@@ -1,0 +1,5 @@
+	Arkansas Poll	10/28/2020	405 LV ±4.8%	32%	65%	3%
+	Hendrix College	10/20/2020	647 LV ±4.9%	34%	58%	8%
+	Axios / SurveyMonkey	10/17/2020	1,466 LV	39%	58%	3%
+Axios / SurveyMonkey	10/01/2020	771 LV	38%	62%	0%
+Hendrix College	6/14/2020	869 LV ±3.3%	45%	47%	8%

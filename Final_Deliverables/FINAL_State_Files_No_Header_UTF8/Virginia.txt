@@ -1,0 +1,15 @@
+﻿Roanoke College	10/31/2020	802 LV ±3.5%	53%	42%	5%
+	VCU	10/29/2020	709 LV ±4.9%	51%	39%	10%
+	Christopher Newport Univ.	10/28/2020	908 LV ±3.4%	53%	41%	6%
+Wash. Post / George Mason	10/22/2020	908 LV ±4%	52%	41%	7%
+Roanoke College	10/15/2020	602 LV ±5.4%	53%	38%	9%
+Civiqs	10/15/2020	1,231 LV ±3.1%	55%	42%	3%
+Christopher Newport Univ.	9/24/2020	796 LV ±3.9%	48%	43%	9%
+VCU	9/15/2020	693 LV ±6.2%	53%	39%	8%
+Roanoke College	8/26/2020	566 LV ±4.1%	53%	39%	8%
+VCU	7/30/2020	725 LV ±6.2%	50%	39%	11%
+Morning Consult	7/28/2020	1,156 LV ±2.9%	52%	41%	7%
+Roanoke College	5/19/2020	563 LV ±4.1%	51%	39%	10%
+VCU	4/14/2020	663 LV ±5.7%	51%	41%	8%
+Hampton University	3/02/2020	768 RV ±3.8%	45%	38%	17%
+Roanoke College	2/24/2020	520 RV ±4.3%	48%	40%	12%

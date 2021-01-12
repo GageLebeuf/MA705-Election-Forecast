@@ -1,0 +1,10 @@
+﻿	NY Times / Siena College	10/22/2020	755 LV ±4%	41%	48%	11%
+	Public Policy	10/21/2020	897 LV ±3.3%	42%	54%	4%
+Axios / SurveyMonkey	10/17/2020	1,972 LV	46%	53%	1%
+Fort Hayes St. U.	10/02/2020	306 RV	38%	52%	10%
+	Civiqs	9/30/2020	677 LV ±4.5%	42%	52%	6%
+SurveyUSA	8/12/2020	1,202 LV ±3.3%	41%	48%	11%
+Public Policy	8/07/2020	864 RV	43%	50%	7%
+Civiqs	6/02/2020	699 RV ±4.2%	40%	52%	8%
+Public Policy	3/12/2020	1,567 RV ±2.5%	40%	52%	8%
+DFM Research	2/10/2020	600 A ±4.3%	43%	51%	6%

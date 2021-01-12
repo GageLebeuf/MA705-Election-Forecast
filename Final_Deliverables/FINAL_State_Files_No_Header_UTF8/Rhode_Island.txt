@@ -1,0 +1,3 @@
+﻿	Axios / SurveyMonkey	11/01/2020	517 LV	62%	36%	2%
+Axios / SurveyMonkey	10/17/2020	580 LV	68%	31%	1%
+Axios / SurveyMonkey	10/01/2020	351 LV	62%	37%	1%

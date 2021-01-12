@@ -1,0 +1,9 @@
+﻿Research Co.	11/02/2020	450 LV ±4.6%	61%	33%	6%
+	Siena College	10/02/2020	504 LV ±4.4%	61%	29%	10%
+Public Policy	8/25/2020	1,029 RV ±3.1%	63%	32%	5%
+Siena College	6/30/2020	806 RV ±3.9%	57%	32%	11%
+Siena College	5/27/2020	796 RV ±3.7%	57%	32%	11%
+Quinnipiac	5/06/2020	915 RV ±3.2%	55%	32%	13%
+Siena College	4/27/2020	803 RV ±3.7%	65%	29%	6%
+Siena College	3/30/2020	566 RV ±4.5%	58%	33%	9%
+Siena College	2/24/2020	658 RV ±4.5%	55%	36%	9%

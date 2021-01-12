@@ -1,0 +1,4 @@
+	Univ. of Delaware	10/05/2020	847 LV ±4%	54%	33%	13%
+Axios / SurveyMonkey	10/01/2020	395 LV	61%	37%	2%
+Public Policy	8/25/2020	710 RV ±3.7%	58%	37%	5%
+Gonzales Research	1/27/2020	410 LV ±5%	56%	40%	4%

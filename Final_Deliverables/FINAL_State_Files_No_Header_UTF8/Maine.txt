@@ -1,0 +1,17 @@
+﻿	Emerson College	11/01/2020	611 LV ±3.9%	54%	43%	3%
+SurveyUSA	10/29/2020	1,007 LV ±3.7%	53%	40%	7%
+	Colby College	10/28/2020	879 LV ±3.3%	51%	38%	11%
+Pan Atlantic Research	10/15/2020	600 LV ±4.5%	50%	40%	10%
+	Bangor Daily News	10/06/2020	466 LV	51%	40%	9%
+Colby College	9/25/2020	847 LV ±3.4%	50%	39%	11%
+Suffolk University	9/21/2020	500 LV ±4%	51%	39%	10%
+NY Times / Siena College	9/18/2020	663 LV ±5.1%	55%	38%	7%
+	Quinnipiac	9/16/2020	1,183 LV ±2.9%	59%	38%	3%
+Fabrizio Ward / Hart Research	9/10/2020	800 LV ±3.3%	54%	40%	6%
+Bangor Daily News	8/11/2020	500 LV ±4.4%	44%	36%	20%
+RMG Research	8/10/2020	500 RV ±4.5%	50%	39%	11%
+Quinnipiac	8/06/2020	807 RV ±3.5%	52%	37%	11%
+Colby College	7/28/2020	888 LV ±3.9%	50%	38%	12%
+	Public Policy	7/28/2020	962 RV	53%	42%	5%
+Public Policy	7/06/2020	1,022 RV ±3.1%	53%	42%	5%
+Public Policy	3/05/2020	782 RV ±3.3%	52%	42%	6%

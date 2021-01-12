@@ -1,0 +1,10 @@
+﻿Y2 Analytics	10/31/2020	660 LV ±3.8%	44%	51%	5%
+	Hinckley-Deseret News	10/23/2020	1,000 LV ±3.1%	38%	50%	12%
+Y2 Analytics	10/05/2020	1,214 LV ±2.8%	40%	50%	10%
+Hinckley-Deseret News	9/17/2020	1,000 LV ±3.1%	35%	53%	12%
+Hinckley-Deseret News	8/07/2020	1,000 RV ±3.1%	31%	50%	19%
+Y2 Analytics	5/26/2020	1,078 LV ±3%	41%	44%	15%
+Hinckley-Deseret News	4/29/2020	964 RV ±3.2%	32%	51%	17%
+Y2 Analytics	4/13/2020	1,266 LV ±2.8%	41%	46%	13%
+Hinckley-Deseret News	3/05/2020	1,000 LV ±3.1%	33%	50%	17%
+Hinckley-Deseret News	1/31/2020	1,017 RV ±3.1%	31%	49%	20%

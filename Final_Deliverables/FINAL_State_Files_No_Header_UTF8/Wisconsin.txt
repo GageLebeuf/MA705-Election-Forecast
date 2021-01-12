@@ -1,0 +1,91 @@
+﻿	Research Co.	11/02/2020	450 LV ±4.6%	50%	42%	8%
+	Morning Consult	11/02/2020	1,002 LV ±3%	54%	41%	5%
+	Civiqs	11/01/2020	789 LV ±3.6%	51%	47%	2%
+	Ipsos/Reuters	11/01/2020	696 LV ±4.2%	53%	43%	4%
+	NY Times / Siena College	11/01/2020	1,253 LV ±3.2%	52%	41%	7%
+	Susquehanna	10/31/2020	450 LV ±4.6%	49%	46%	5%
+	Emerson College	10/31/2020	751 LV ±3.5%	53%	45%	2%
+	CNN/SSRS	10/31/2020	873 LV ±3.9%	52%	44%	4%
+	Marquette Law	10/28/2020	749 LV ±4.4%	48%	43%	9%
+	ABC News / Wash. Post	10/28/2020	809 LV ±4%	57%	40%	3%
+Ipsos/Reuters	10/26/2020	664 LV ±4.3%	53%	44%	3%
+	Univ. of Wisconsin-Madison	10/26/2020	647 LV ±4.1%	53%	44%	3%
+	Trafalgar Group	10/25/2020	1,082 LV ±2.9%	46%	45%	9%
+	Gravis Marketing	10/25/2020	677 LV ±3.8%	54%	43%	3%
+Morning Consult	10/22/2020	1,038 LV ±3%	54%	42%	4%
+RMG Research	10/22/2020	800 LV ±3.5%	50%	44%	6%
+Susquehanna	10/21/2020	500 LV ±4.3%	45%	45%	10%
+	Fox News	10/21/2020	1,037 LV ±3%	49%	44%	7%
+	CNBC/Change Research	10/20/2020	447 LV	52%	44%	4%
+Ipsos/Reuters	10/19/2020	663 LV ±4.3%	51%	43%	6%
+Trafalgar Group	10/19/2020	1,051 LV ±2.9%	48%	46%	6%
+	YouGov/CBS News	10/18/2020	1,112 LV ±3.5%	51%	46%	3%
+Trafalgar Group	10/15/2020	1,043 LV ±3%	47%	45%	8%
+Morning Consult	10/13/2020	1,067 LV ±3%	51%	44%	5%
+Ipsos/Reuters	10/12/2020	577 LV ±5%	51%	44%	5%
+NY Times / Siena College	10/12/2020	789 LV ±4%	51%	41%	8%
+	Baldwin Wallace Univ.	10/11/2020	883 LV ±3.4%	49%	43%	8%
+	Redfield & Wilton	10/09/2020	688 LV ±3.7%	51%	41%	8%
+Marquette Law	10/07/2020	700 LV ±4.6%	47%	42%	11%
+CNBC/Change Research	10/06/2020	442 LV	51%	44%	5%
+Ipsos/Reuters	10/05/2020	601 LV ±5%	50%	44%	6%
+Redfield & Wilton	10/02/2020	663 LV ±3.8%	48%	43%	9%
+Trafalgar Group	9/28/2020	1,189 LV ±2.8%	48%	45%	7%
+NBC News/Marist	9/27/2020	727 LV ±4.6%	54%	44%	2%
+Univ. of Wisconsin-Madison	9/24/2020	664 LV	50%	46%	4%
+Baldwin Wallace Univ.	9/23/2020	863 LV ±3.7%	50%	41%	9%
+CNBC/Change Research	9/23/2020	571 LV	51%	42%	7%
+Ipsos/Reuters	9/21/2020	609 LV ±5%	48%	43%	9%
+Redfield & Wilton	9/18/2020	636 LV ±3.9%	47%	41%	12%
+ABC News / Wash. Post	9/16/2020	605 LV ±4.5%	52%	46%	2%
+CNN/SSRS	9/15/2020	816 LV ±4.2%	52%	42%	6%
+NY Times / Siena College	9/12/2020	769 LV ±4.7%	48%	43%	9%
+Emerson College	9/10/2020	823 LV ±3.4%	51%	44%	5%
+Benenson / GS Strategy	9/10/2020	1,200 LV ±2.8%	50%	45%	5%
+Marquette Law	9/09/2020	688 LV ±4.3%	48%	44%	8%
+CNBC/Change Research	9/09/2020	501 LV	50%	44%	6%
+Redfield & Wilton	9/08/2020	670 LV ±3.8%	50%	41%	9%
+Rasmussen Reports	9/07/2020	1,000 LV ±3%	51%	43%	6%
+YouGov/CBS News	9/06/2020	978 LV ±3.7%	50%	44%	6%
+Fox News	9/02/2020	801 LV ±3.5%	50%	42%	8%
+Morning Consult	9/01/2020	N/A	52%	43%	5%
+CNBC/Change Research	8/26/2020	925 LV	49%	44%	7%
+Trafalgar Group	8/25/2020	1,011 LV ±3%	45%	46%	9%
+Civiqs	8/21/2020	754 RV ±3.7%	51%	45%	4%
+Redfield & Wilton	8/21/2020	812 RV ±3.4%	49%	39%	12%
+Morning Consult	8/17/2020	788 LV ±3%	49%	43%	8%
+CNBC/Change Research	8/12/2020	384 LV	47%	43%	10%
+Marquette Law	8/11/2020	675 LV ±4.2%	49%	44%	7%
+Univ. of Wisconsin-Madison	8/10/2020	734 RV	49%	43%	8%
+YouGov/CBS News	8/09/2020	994 LV ±3.7%	48%	42%	10%
+Global Strategy Group	8/03/2020	600 LV ±4%	51%	42%	7%
+Redfield & Wilton	7/30/2020	742 RV ±3.6%	45%	35%	20%
+CNBC/Change Research	7/29/2020	392 LV	48%	43%	9%
+Morning Consult	7/28/2020	809 LV ±3.4%	50%	43%	7%
+Gravis Marketing	7/23/2020	796 LV ±3.5%	50%	42%	8%
+Spry Strategies	7/22/2020	700 LV ±3.7%	46%	45%	9%
+CNBC/Change Research	7/15/2020	601 LV	48%	42%	10%
+CNBC/Change Research	7/01/2020	502 LV	51%	43%	6%
+Trafalgar Group	6/28/2020	1,021 LV ±3%	45%	46%	9%
+Redfield & Wilton	6/25/2020	846 RV ±3.4%	45%	36%	19%
+NY Times / Siena College	6/25/2020	655 RV ±4.3%	49%	38%	13%
+Marquette Law	6/24/2020	805 RV ±4.3%	51%	42%	7%
+CNBC/Change Research	6/17/2020	231 LV	48%	44%	8%
+CNBC/Change Research	6/03/2020	382 LV	45%	45%	10%
+Fox News	6/03/2020	801 RV ±3.5%	49%	40%	11%
+Redfield & Wilton	5/21/2020	875 RV ±3.3%	48%	38%	14%
+Marquette Law	5/12/2020	811 RV ±4%	46%	43%	11%
+	Public Policy	4/23/2020	1,415 RV ±2.6%	50%	45%	5%
+Ipsos/Reuters	4/22/2020	645 RV ±5%	43%	40%	17%
+Hart Research	4/13/2020	301 LV	48%	47%	5%
+Marquette Law	4/01/2020	813 RV ±4.2%	48%	45%	7%
+Baldwin Wallace Univ.	3/25/2020	822 RV ±3.8%	45%	45%	10%
+Public Policy	3/12/2020	1,727 RV ±2.4%	48%	45%	7%
+Yahoo/YouGov	3/09/2020	459 RV	44%	42%	14%
+Marquette Law	2/27/2020	1,000 RV ±3.6%	46%	46%	8%
+Expedition Strategies	2/24/2020	500 RV	42%	44%	14%
+Univ. of Wisconsin-Madison	2/23/2020	936 RV	45%	43%	12%
+Quinnipiac	2/20/2020	823 RV ±3.4%	42%	49%	9%
+Tarrance Group	1/16/2020	500 LV ±4.5%	47%	46%	7%
+Marquette Law	1/15/2020	800 RV ±4.1%	49%	45%	6%
+Fox News	1/09/2020	1,504 LV ±2.5%	46%	41%	13%

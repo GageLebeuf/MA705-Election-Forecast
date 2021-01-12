@@ -1,0 +1,48 @@
+﻿Morning Consult	11/02/2020	3,267 LV ±2%	48%	48%	4%
+	Emerson College	11/01/2020	763 LV ±3.5%	49%	49%	2%
+Gravis Marketing	11/01/2020	670 LV ±3.8%	45%	50%	5%
+	Public Policy	10/31/2020	775 LV	50%	48%	2%
+RMG Research	10/29/2020	800 LV ±3.5%	46%	50%	4%
+	UMass Lowell	10/29/2020	873 LV ±4.2%	47%	48%	5%
+	NY Times / Siena College	10/26/2020	802 LV ±3.8%	43%	47%	10%
+University of Houston	10/26/2020	1,000 LV ±3.1%	45%	50%	5%
+	UT Tyler	10/25/2020	949 LV ±3.2%	48%	45%	7%
+Morning Consult	10/22/2020	3,347 LV ±1.7%	48%	47%	5%
+	Quinnipiac	10/21/2020	1,145 LV ±2.9%	47%	47%	6%
+Morning Consult	10/13/2020	3,455 LV ±1.7%	47%	49%	4%
+	Univ. of Texas / Texas Tribune	10/09/2020	908 LV ±3.3%	45%	50%	5%
+Crosswind Media	10/08/2020	1,000 LV ±3%	44%	51%	5%
+Civiqs	10/07/2020	895 LV ±3.4%	48%	48%	4%
+UMass Lowell	9/29/2020	882 LV ±4.3%	46%	50%	4%
+Quinnipiac	9/24/2020	1,078 LV ±3%	45%	50%	5%
+NY Times / Siena College	9/24/2020	653 LV ±4.3%	43%	46%	11%
+	YouGov/CBS News	9/20/2020	1,140 LV ±3.5%	46%	48%	6%
+Public Policy	9/08/2020	743 RV	47%	48%	5%
+UT Tyler	9/06/2020	901 LV ±3.3%	46%	48%	6%
+Morning Consult	9/01/2020	N/A	47%	48%	5%
+Public Policy	8/24/2020	764 RV ±3.6%	48%	47%	5%
+THPF/Rice Univ.	8/17/2020	846 RV	41%	48%	11%
+Trafalgar Group	8/07/2020	1,015 LV ±3%	43%	49%	8%
+Morning Consult	8/04/2020	2,576 LV ±2%	47%	46%	7%
+Morning Consult	7/28/2020	2,685 LV ±1.9%	47%	45%	8%
+Spry Strategies	7/22/2020	750 LV ±3.5%	45%	49%	6%
+Quinnipiac	7/22/2020	880 RV ±3.3%	45%	44%	11%
+YouGov/CBS News	7/12/2020	1,212 RV ±3.3%	45%	46%	9%
+UT Tyler	7/12/2020	1,909 RV ±2.2%	46%	41%	13%
+UT/Texas Politics	7/02/2020	1,200 RV ±2.8%	44%	48%	8%
+Public Policy	7/02/2020	729 RV ±3.6%	48%	46%	6%
+Fox News	6/25/2020	1,001 RV ±3%	45%	44%	11%
+Public Policy	6/23/2020	907 RV	46%	48%	6%
+Public Policy	6/05/2020	682 RV	48%	48%	4%
+Quinnipiac	6/03/2020	1,166 RV ±2.9%	43%	44%	13%
+Emerson College	5/11/2020	800 LV ±3.4%	41%	47%	12%
+UT Tyler	5/02/2020	1,183 RV ±2.9%	43%	43%	14%
+Public Policy	4/29/2020	1,032 RV	47%	46%	7%
+Univ. of Texas / Texas Tribune	4/25/2020	1,200 RV ±2.8%	44%	49%	7%
+NBC News/Marist	3/01/2020	2,000 RV ±2.7%	45%	49%	6%
+UT Tyler	2/29/2020	1,221 RV ±2.8%	44%	45%	11%
+Univision/CMAS UH	2/28/2020	1,004 RV ±3.1%	43%	46%	11%
+	CNN/SSRS	2/28/2020	1,003 RV ±3.4%	48%	47%	5%
+Univ. of Texas / Texas Tribune	2/14/2020	1,200 RV ±2.8%	43%	47%	10%
+UT Tyler	2/02/2020	915 LV ±3.2%	44%	46%	10%
+Texas Lyceum	1/29/2020	520 LV ±4.3%	46%	51%	3%

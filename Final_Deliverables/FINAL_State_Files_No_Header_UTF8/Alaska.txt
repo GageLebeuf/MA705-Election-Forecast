@@ -1,0 +1,8 @@
+	Gravis Marketing	10/29/2020	770 LV ±3.5%	43%	52%	5%
+	Public Policy	10/21/2020	800 LV ±3.5%	45%	50%	5%
+NY Times / Siena College	10/16/2020	423 LV ±5.7%	39%	45%	16%
+	Alaska Survey Research	10/06/2020	676 LV	46%	50%	4%
+Axios / SurveyMonkey	10/01/2020	563 LV	45%	53%	2%
+Public Policy	7/28/2020	885 RV	44%	50%	6%
+Alaska Survey Research	7/17/2020	663 LV ±3.9%	48%	49%	3%
+Public Policy	7/09/2020	1,081 RV ±3%	45%	48%	7%

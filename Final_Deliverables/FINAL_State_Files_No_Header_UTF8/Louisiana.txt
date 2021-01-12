@@ -1,0 +1,4 @@
+﻿	Univ. of New Orleans	10/27/2020	755 RV ±3.6%	36%	59%	5%
+	Trafalgar Group	10/14/2020	1,048 LV ±3%	36%	54%	10%
+Axios / SurveyMonkey	10/01/2020	2,475 LV	38%	60%	2%
+Trafalgar Group	8/24/2020	1,002 LV ±3%	38%	54%	8%

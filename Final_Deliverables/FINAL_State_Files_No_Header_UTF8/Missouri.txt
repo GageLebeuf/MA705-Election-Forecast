@@ -1,0 +1,11 @@
+﻿Morning Consult	11/02/2020	1,109 LV ±3%	43%	52%	5%
+	Remington Research	10/31/2020	1,010 LV ±3%	45%	50%	5%
+	SLU/YouGov	10/13/2020	931 LV ±3.9%	43%	52%	5%
+Remington Research	10/03/2020	980 LV ±3%	46%	51%	3%
+Remington Research	9/19/2020	1,046 LV ±3%	45%	53%	2%
+	We Ask America	9/08/2020	500 LV ±4.4%	44%	49%	7%
+Trafalgar Group	8/31/2020	1,015 LV ±3%	41%	52%	7%
+SLU/YouGov	7/13/2020	900 LV ±4%	43%	50%	7%
+Remington Research	6/13/2020	1,152 LV ±2.9%	43%	51%	6%
+We Ask America	5/28/2020	500 LV ±4.4%	44%	48%	8%
+Remington Research	3/01/2020	1,050 LV ±3%	42%	52%	6%

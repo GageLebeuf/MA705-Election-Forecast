@@ -1,0 +1,9 @@
+﻿	Research Co.	11/02/2020	450 LV ±4.6%	56%	38%	6%
+	Rutgers-Eagleton	10/29/2020	872 LV ±4%	61%	37%	2%
+Stockton University	10/16/2020	721 RV ±3.7%	56%	36%	8%
+	Fairleigh Dickinson	10/09/2020	582 LV ±4.6%	53%	38%	9%
+Emerson College	9/08/2020	500 LV ±4.4%	55%	38%	7%
+Rutgers-Eagleton	5/14/2020	689 RV ±4.2%	56%	33%	11%
+Quinnipiac	5/06/2020	941 RV ±3.2%	54%	35%	11%
+Monmouth University	4/23/2020	635 RV ±3.9%	54%	38%	8%
+Fairleigh Dickinson	2/18/2020	715 RV	53%	35%	12%

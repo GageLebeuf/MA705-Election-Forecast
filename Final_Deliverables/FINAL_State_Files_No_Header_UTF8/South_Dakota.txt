@@ -1,0 +1,3 @@
+﻿Mason-Dixon	10/25/2020	625 LV ±4%	40%	51%	9%
+	Axios / SurveyMonkey	10/17/2020	723 LV	44%	54%	2%
+Axios / SurveyMonkey	10/01/2020	354 LV	41%	58%	1%

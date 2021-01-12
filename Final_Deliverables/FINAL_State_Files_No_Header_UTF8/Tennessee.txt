@@ -1,0 +1,6 @@
+﻿Axios / SurveyMonkey	11/01/2020	2,943 LV	45%	54%	1%
+Axios / SurveyMonkey	10/17/2020	3,644 LV	40%	58%	2%
+Axios / SurveyMonkey	10/01/2020	2,329 LV	41%	58%	1%
+Vanderbilt University	6/09/2020	1,000 RV ±3.8%	42%	51%	7%
+East Tennessee State	5/19/2020	536 LV ±3.9%	36%	53%	11%
+Mason-Dixon	2/06/2020	625 RV ±4%	39%	55%	6%

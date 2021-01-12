@@ -1,0 +1,15 @@
+﻿Emerson College	11/01/2020	720 LV ±3.6%	49%	47%	4%
+Trafalgar Group	10/30/2020	1,024 LV ±3%	49%	47%	4%
+	Gravis Marketing	10/29/2020	688 LV ±3.7%	50%	44%	6%
+	NY Times / Siena College	10/27/2020	809 LV ±3.8%	49%	43%	8%
+	BUSR/UNLV	10/27/2020	802 LV ±4%	50%	41%	9%
+Civiqs	10/21/2020	712 LV ±53%	52%	43%	5%
+WPA Intelligence	10/13/2020	512 LV ±4.4%	44%	42%	14%
+YouGov/CBS News	10/11/2020	1,036 LV ±4.1%	52%	46%	2%
+NY Times / Siena College	10/07/2020	660 LV ±4.3%	48%	42%	10%
+BUSR/UNLV	9/28/2020	641 LV ±4%	46%	41%	13%
+	Fox News	9/24/2020	810 LV ±3%	52%	41%	7%
+NY Times / Siena College	9/12/2020	462 LV ±5.3%	46%	42%	12%
+BUSR/UNLV	9/01/2020	682 LV ±4%	44%	39%	17%
+Anzalone Liszt Grove	5/06/2020	763 LV ±3.6%	49%	45%	6%
+Fox News	1/09/2020	1,505 LV ±2.5%	47%	39%	14%

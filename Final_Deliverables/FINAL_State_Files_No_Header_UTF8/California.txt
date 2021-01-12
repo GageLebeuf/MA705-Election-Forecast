@@ -1,0 +1,10 @@
+UC Berkeley	10/27/2020	5,352 LV ±2%	65%	29%	6%
+	PPIC	10/22/2020	1,185 LV ±4.3%	58%	32%	10%
+Axios / SurveyMonkey	10/17/2020	22,318 LV	62%	36%	2%
+	SurveyUSA	9/29/2020	588 LV ±5.3%	59%	32%	9%
+	Redfield & Wilton	9/27/2020	1,733 LV ±2.2%	62%	28%	10%
+UC Berkeley	9/25/2020	5,942 LV ±2%	67%	28%	5%
+PPIC	9/17/2020	1,168 LV ±4.3%	60%	31%	9%
+Spry Strategies	9/07/2020	600 LV ±4%	56%	39%	5%
+Redfield & Wilton	8/14/2020	2,000 RV	61%	25%	14%
+UC Berkeley	8/04/2020	6,756 LV ±2%	67%	28%	5%
